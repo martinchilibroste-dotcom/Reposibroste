@@ -1,0 +1,7 @@
+* "¿Cómo está el día en Buenos Aires?"
+
+* "Tengo una remera de $5000 y me hacen un 15% de descuento. ¿A cuánto me queda?"
+
+* "Si en mendoza está lloviendo, no voy a comprar. Pero si está lindo, comprame una campera de $10.000 con un 10% de descuento. ¿Qué me decís?"
+
+* "Si en buenos aires está lloviendo, no voy a comprar. Pero si está lindo, comprame una campera de $10.000 con un 10% de descuento. ¿Qué me decís?"
