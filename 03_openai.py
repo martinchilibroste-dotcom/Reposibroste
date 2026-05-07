@@ -12,7 +12,7 @@ load_dotenv()
 #api_key = os.environ.get("OPENAI_API_KEY")
 
 # OPENAI_API_KEY hardcoded
-api_key = "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"
+api_key = "sk-proj-Cq8iBi5mY3KfyQakLYkwcLHniYr8WsRPpf6WfVpyCKnoZQnV11hRuo0L--8PzYhc5-_6SEoIx_eFfDAA"
 
 if not api_key:
     print("Error: No se encontró OPENAI_API_KEY")
