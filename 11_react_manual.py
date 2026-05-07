@@ -54,13 +54,13 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 # OPENAI_API_KEY hardcoded, para chatGPT-4.1-mini
-api_key_gpt = "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"
+api_key_gpt = "sk-proj---8PzYhc5-_6SEoIx_eFfDAA"
 clientgpt = OpenAI(api_key=api_key_gpt)
 
 load_dotenv()
 client = OpenAI(base_url="https://api.groq.com/openai/v1", 
                 #api_key=os.getenv("GROQ_API_KEY")
-                api_key="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")
+                api_key="")
 
 # El System Prompt es el "Sistema Operativo" de nuestro agente
 SYSTEM_PROMPT = """
