@@ -1,3 +1,5 @@
+# Reposibroste
+Repositorio de Chilibroste - Proyectos varios
 Projecto de agente ia de estudio/curso inicial
 Un poco desordenado
 los que funcionan son :
