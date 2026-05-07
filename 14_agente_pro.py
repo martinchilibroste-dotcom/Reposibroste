@@ -17,10 +17,10 @@ print(f"SERPER_API_KEY: {SERPER_API_KEY}")
 
 if not GROQ_API_KEY:
     #raise ValueError("GROQ_API_KEY no configurada en el archivo .env")
-    GROQ_API_KEY = "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"
+    GROQ_API_KEY = ""
 if not WEATHER_API_KEY:
     #raise ValueError("WEATHER_API_KEY no configurada en el archivo .env")
-    WEATHER_API_KEY = "903185133f0dd1b89004f6c707423cf8"
+    WEATHER_API_KEY = ""
 #print(f"WEATHER_API_KEY: {WEATHER_API_KEY}")
 #print(f"GROQ_API_KEY: {GROQ_API_KEY}")
 print(f"MODEL: {config.MODEL}")
@@ -29,7 +29,7 @@ print(f"MODEL: {config.MODEL}")
 #WEATHER_API_KEY = os.getenv("WEATHER_API_KEY")
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY1")
-#OPENAI_API_KEY="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"
+#OPENAI_API_KEY="sk-proj---8PzYhc5-_6SEoIx_eFfDAA"
 
 print(f"OPENAI_API_KEY: {OPENAI_API_KEY}")
 if not OPENAI_API_KEY:
