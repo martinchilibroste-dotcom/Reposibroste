@@ -15,7 +15,7 @@ load_dotenv()
 # )
 
 # OPENAI_API_KEY hardcoded
-api_key = "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"
+api_key = "sk-proj---8PzYhc5-_6SEoIx_eFfDAA"
 client = OpenAI(api_key=api_key)
 
 # EL CHAT LOOP: El corazón de un agente conversacional
